@@ -1,0 +1,103 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url('../img/n');
+}
+
+h1{
+    text-align: center;
+    color: #3689DD;
+    font-family: cursive;
+}
+
+nav{
+    text-align: right;
+    background-color:#6B6B94;
+    padding: 8px;
+}
+
+ul{
+    list-style: none;
+}
+
+.conten-foto{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.conten-foto img{
+    margin-right: -400px;
+    margin-bottom: 200px;
+}
+
+.conten-datos {
+    text-align: center;
+    color: #333;
+    position: relative;
+}
+
+.conten-datos label{
+    font-weight: bold;
+
+
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.menu li a{
+    color: #fefefe;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 5px #000;
+}
+
+
+#datos{
+    background-image: url('../img/background.png');
+}
+
+
+#contacto{
+    background-color: #235689;
+}
+
+#contacto article{
+    width: 49%;
+    padding: 16px 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.conten-input{
+    padding: 8px;
+    text-align: center;
+}
+
+.conten-input input,textArea{
+    width: 80%;
+    background-color: #fff;
+    border: 1px solid #DDD;
+    padding: 4px;
+} 
+#pie_pagina {
+    text-align: center;
+    font-size: 30px;
+}
+
+#estudios {
+    text-align: center;
+    position: relative;
+    
+}
+
+#estudios h2{
+    margin-bottom: 30px;
+}
